@@ -1,0 +1,2 @@
+#practica
+print("hola mundo")

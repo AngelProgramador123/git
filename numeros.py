@@ -10,7 +10,7 @@ def analizar_numeros():
                 numeros.append(num)
                 break
             except ValueError:
-                print("Entrada no válida. Por favor, ingresa un número real.")
+                print("Entrada no válida. Por favor, ingresa un númer o real.")
     
     # Ordenar los números de mayor a menor (descendente) y de menor a mayor (ascendente)
     numeros_descendente = sorted(numeros, reverse=True)
